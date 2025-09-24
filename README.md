@@ -69,7 +69,7 @@ The project includes two dashboards that provide real-time insights into **credi
 I am passionate about **Data Analysis & Business Intelligence**.  
 Currently exploring **Power BI, SQL, and Excel** to build industry-level projects and dashboards.  
 
-📧 Feel free to connect with me on jaspreet-kaur-17785828b or check more of my projects on GitHub.  
+📧 Feel free to connect with me on www.linkedin.com/in/jaspreet-kaur-17785828b or check more of my projects on GitHub.  
 
 
-## 📂 Project Structure
+
